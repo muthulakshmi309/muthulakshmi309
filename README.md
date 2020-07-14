@@ -2,9 +2,9 @@
 
 I'm a web developer with 4+ years of experience. My area of expertise is front-end web development.
 
-🔭 I’m currently working on Angular, React, Typescript, Bootstrap, SCSS.
+🔭 Currently working on Angular, React, Typescript, Bootstrap, SCSS.
 
-🌱 I’m currently learning Node.js and MongoDB to improve my skillset for Full stack web development.
+🌱 Learning Node.js, Redux, RxJS to improve my skillset for Full stack web development.
 
 
 <!--
