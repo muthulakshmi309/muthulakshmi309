@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm a web developer with 4+ years of experience. My area of expertise is front-end web development.
+
+🔭 I’m currently working on Angular, React, Typescript, Bootstrap, SCSS.
+🌱 I’m currently learning Node.js and MongoDB to improve my skillset for Full stack web development.
+
+
 <!--
 **lakshmi309/lakshmi309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
