@@ -9,7 +9,7 @@ I'm a web developer with 4+ years of experience. My area of expertise is front-e
 - Bootstrap
 - CSS/SCSS/SASS
 
-🌱 Learning Node.js, Redux, RxJS to improve my skillset for Full stack web development.
+🌱 Learning Node.js, Redux, RxJS.
 
 
 <!--
