@@ -1,13 +1,14 @@
 ### Hi there 👋
 
-I'm a web developer with 4+ years of experience. My area of expertise is front-end web development.
+I'm a web developer with 5 years of experience. My area of expertise is front-end web development.
 
 🔭 Currently working on
 - Angular
+- React
 - Typescript
 - Node.js
 - Bootstrap
-- CSS/SCSS/SASS
+- CSS/SASS
 
 <!--
 **lakshmi309/lakshmi309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
