@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-I'm a web developer with 5 years of experience. My area of expertise is front-end web development.
+I'm a web developer with 7 years of experience. My area of expertise is front-end web development.
 
 🔭 Currently working on
-- Angular
 - React
+- Redux
+- React Native
+- Angular
 - Typescript
 - Node.js
 - Bootstrap
